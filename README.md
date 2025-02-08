@@ -4,9 +4,9 @@
 ## Sobre mim
 
 👋 Olá! Eu sou a Clara, um entusiasta da tecnologia e da inovação. 
-- 🌱 Estou me aprofundando em IOT e Jogos
+- 🌱 Estou me aprofundando em IOT e Games.
 - 💬 Adoro compartilhar e adquirir conhecimentos!
-- 🎮 Apaixonado por qualquer coisa diferente do habitual.
+- 🎮 Apaixonada por qualquer coisa diferente do habitual.
 - 🎤 Sempre pronto para um bom bate-papo!
 
 ## Minhas Inspirações
@@ -16,6 +16,7 @@
 > "O significado da vida é que ela termina." - Franz Kafka
 
 ---
+
 
 _Agradeço por dar uma passada por aqui!_
 
