@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClaraMikaelly-ifpi
+- 👋 Hi, I’m @ClaraLiss
 # Bem-vindo ao meu espaço digital! 🚀
 
 ## Sobre mim
